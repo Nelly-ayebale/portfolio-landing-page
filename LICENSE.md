@@ -1,8 +1,8 @@
 The Star And Thank Author License (SATA)
 
-Copyright (c) [Harsh Vijay](https://github.com/iharsh234) <iharsh234@gmail.com>
+Copyright (c) [Nelly-ayebale ](https://github.com/Nelly-ayebale) <ayebalenelly26@gmail.com>
 
-Project Url: https://github.com/iharsh234/WebApp
+Project Url: https://github.com/Nelly-ayebale/portfolio-landing-page
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
