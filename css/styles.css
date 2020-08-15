@@ -37,7 +37,7 @@ h2 {
     color: darkblue;
 }
 .about-me {
-    background-color: white;
+    background-color: lightcyan;
     width: 50%;
     padding: 100px;
     margin: 100px;
@@ -46,4 +46,12 @@ h2 {
 }
 .about-me p span:hover {
     background-color: lightseagreen;
+}
+.about-me ul li {
+    color: darkred;
+    font-size: 20px;
+    line-height: 30px;
+}
+body {
+    background-color: skyblue;
 }
