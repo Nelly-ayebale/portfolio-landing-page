@@ -10,3 +10,9 @@ body p {
     font-size: 30px;
 
 }
+.navbar-icons {
+    height: 25px;
+    margin-left: 40px;
+    cursor: pointer;
+    display: inline-table;
+}
