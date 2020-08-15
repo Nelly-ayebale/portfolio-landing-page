@@ -1,8 +1,8 @@
 img {
     float: center;
-    width: 900px;
+    width: 700px;
     height: 500px;
-    margin: 300px;
+    margin: 50px;
     padding-top: 4px;
 }
 body p {
@@ -10,9 +10,26 @@ body p {
     font-size: 30px;
 
 }
-.navbar-icons {
-    columns: 3;
-    display: inline-flex;
+.navbar-icons span {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: cyan;
     
-    
+}
+.navbar-icons span:hover {
+    background-color: lightseagreen;
+}
+h1 {
+    background-color: cyan;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: mediumblue;
+    color: darkblue;
+
 }
