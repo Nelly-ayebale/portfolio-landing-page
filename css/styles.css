@@ -44,3 +44,6 @@ h2 {
     float: center;
     border: 10px solid cyan;
 }
+.about-me p span:hover {
+    background-color: lightseagreen;
+}
