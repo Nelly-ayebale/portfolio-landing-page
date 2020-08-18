@@ -48,7 +48,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Show evidence in learning how to use Git and Github respectively.
 
 
-## [License](https://github.com/Nelly-ayebale/portfolio-landing-page/LICENSE.md)
+## [License](https://github.com/Nelly-ayebale/portfolio-landing-page/LICENSE)
 
-MIT © [Nelly-ayebale ](https://github.com/Nelly-ayebale)
+[MIT license](LICENSE) © [Nelly-ayebale ](https://github.com/Nelly-ayebale)
 
